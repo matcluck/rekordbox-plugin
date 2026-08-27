@@ -1,0 +1,11 @@
+{
+  "name": "rekordbox-skill",
+  "version": "0.1.0",
+  "description": "Safely inspect and publish collections, playlists, and cue points to Rekordbox",
+  "author": {
+    "name": "matcluck",
+    "url": "https://github.com/matcluck"
+  },
+  "homepage": "https://github.com/matcluck/rekordbox-plugin",
+  "repository": "https://github.com/matcluck/rekordbox-plugin"
+}

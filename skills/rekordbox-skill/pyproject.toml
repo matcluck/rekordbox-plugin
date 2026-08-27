@@ -1,0 +1,12 @@
+[project]
+name = "rekordbox-skill-runtime"
+version = "0.1.0"
+description = "Standalone runtime dependencies for the Rekordbox skill"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "psutil>=7,<8",
+    "pyrekordbox==0.4.4",
+]
+
+[tool.uv]
+package = false

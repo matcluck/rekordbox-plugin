@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rekordbox"
+  short_description: "Maintain Rekordbox and CDJ exports safely"
+  default_prompt: "Use $rekordbox-skill to safely inspect or update my Rekordbox library."
