@@ -1,6 +1,6 @@
 # Rekordbox plugin
 
-`rekordbox-skill` safely inspects and updates Rekordbox collections, playlists, cue points, analysis state, and Pioneer-compatible exports. It is a standalone destination plugin for Claude Code and Codex: Music Organiser can publish directly to Rekordbox without passing through djay.
+The Rekordbox plugin safely inspects and updates Rekordbox collections, playlists, cue points, analysis state, and Pioneer-compatible exports. It is a standalone destination for Claude Code and Codex: Music Organiser can publish directly to Rekordbox without passing through djay.
 
 ## Install from the DJ Tools marketplace
 
